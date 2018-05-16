@@ -4,7 +4,6 @@ def my_hash
     "monkey" => "brown",
     "peacock" => 'green',
     "camel" => "tan"
-    
   }
   
 end
