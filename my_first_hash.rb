@@ -3,6 +3,7 @@ def my_hash
   my_hash = {
     "monkey" => "brown",
     "peacock" => 'green',
+    "camel" => "tan"
     
   }
   
